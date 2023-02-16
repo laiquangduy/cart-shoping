@@ -1,0 +1,51 @@
+.panel-title-cart{
+    background-color: #F2DEDE;
+    color: #A94442;
+}
+.panel-heading-cart{
+    border: 1px solid #F2DEDE;
+    border-radius: 4px;
+    
+}
+.panel-cart{
+    border-color: #F2DEDE;
+}
+.panel-body{
+    padding: 5px;
+}
+.label{
+    text-decoration: none;
+   
+    display: inline;
+    padding: 0.2em 0.6em 0.3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25em;
+}
+.update-cart-item{
+    background-color: #5BC0DE;
+}
+.delete-cart-item{
+    background-color: #D9534F;
+}
+tfoot tr{
+    border-top: 1px solid #DDDDDD;
+}
+.total-price{
+    font-weight: bold;
+    color: #FF0000;
+    font-size: 16px;
+}
+table  input {
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
+.table-list{
+    border-top: 2px solid #DDDDDD;
+}
